@@ -6,5 +6,3 @@ The ".pdf" extension must not be used in the reports url, it is automatically ad
 
 `https://reports.geekyreality.com/2016` will point to `2016.pdf` in this repository.
 
-The content of `index.md` is shown as the homepage of <https://reports.geekyreality.com/> .
-
